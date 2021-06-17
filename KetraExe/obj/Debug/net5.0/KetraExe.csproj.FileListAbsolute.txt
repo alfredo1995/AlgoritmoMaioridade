@@ -1,0 +1,16 @@
+C:\Users\7belo\source\repos\KetraExe\KetraExe\obj\Debug\net5.0\KetraExe.csproj.AssemblyReference.cache
+C:\Users\7belo\source\repos\KetraExe\KetraExe\obj\Debug\net5.0\KetraExe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\7belo\source\repos\KetraExe\KetraExe\obj\Debug\net5.0\KetraExe.AssemblyInfoInputs.cache
+C:\Users\7belo\source\repos\KetraExe\KetraExe\obj\Debug\net5.0\KetraExe.AssemblyInfo.cs
+C:\Users\7belo\source\repos\KetraExe\KetraExe\obj\Debug\net5.0\KetraExe.csproj.CoreCompileInputs.cache
+C:\Users\7belo\source\repos\KetraExe\KetraExe\bin\Debug\net5.0\KetraExe.exe
+C:\Users\7belo\source\repos\KetraExe\KetraExe\bin\Debug\net5.0\KetraExe.deps.json
+C:\Users\7belo\source\repos\KetraExe\KetraExe\bin\Debug\net5.0\KetraExe.runtimeconfig.json
+C:\Users\7belo\source\repos\KetraExe\KetraExe\bin\Debug\net5.0\KetraExe.runtimeconfig.dev.json
+C:\Users\7belo\source\repos\KetraExe\KetraExe\bin\Debug\net5.0\KetraExe.dll
+C:\Users\7belo\source\repos\KetraExe\KetraExe\bin\Debug\net5.0\ref\KetraExe.dll
+C:\Users\7belo\source\repos\KetraExe\KetraExe\bin\Debug\net5.0\KetraExe.pdb
+C:\Users\7belo\source\repos\KetraExe\KetraExe\obj\Debug\net5.0\KetraExe.dll
+C:\Users\7belo\source\repos\KetraExe\KetraExe\obj\Debug\net5.0\ref\KetraExe.dll
+C:\Users\7belo\source\repos\KetraExe\KetraExe\obj\Debug\net5.0\KetraExe.pdb
+C:\Users\7belo\source\repos\KetraExe\KetraExe\obj\Debug\net5.0\KetraExe.genruntimeconfig.cache
